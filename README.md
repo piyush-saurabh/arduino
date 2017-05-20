@@ -9,3 +9,7 @@ different buttons on the IR remote.
 (refer https://learn.adafruit.com/using-an-infrared-library/hardware-needed)
 
 This project helps to turn ON and OFF the LED via IR Remote
+
+Project: rhme
+Description:
+This project contains the python code for the solution of Riscure Rhme CTF.
